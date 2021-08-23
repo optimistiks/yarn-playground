@@ -1,9 +1,9 @@
 {
-  "name": "NewWebApp",
+  "name": "chapterly",
   "packageManager": "yarn@3.0.1",
   "private": true,
   "workspaces": [
-    "packages/*"
+    "chapterly/*"
   ],
   "devDependencies": {
     "@types/node": "^16.7.1",
